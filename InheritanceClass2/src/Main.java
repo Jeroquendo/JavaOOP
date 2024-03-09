@@ -19,7 +19,7 @@ public class Main {
         vector[1] = new Worker();
         vector[2] = new Consultant();
         vector[3] = new Boss();
-        
+
         Person person = new Person();
         Consultant consultant = new Consultant();
 
